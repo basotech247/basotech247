@@ -1,15 +1,28 @@
-## Hi there 👋
+# 🌐 My Web Development Projects  
 
-**basotech247/basotech247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my repository! 👋  
+I’m **Abdullahi Musa Baso (BASOTECH)**, a passionate **Web Developer** who loves building modern, responsive, and user-friendly websites.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on my project
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with good ideas and advice
-- 💬 Ask me about my works 
-- 📫 How to reach me: call be back
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, PHP (if you use them)  
+- **Tools:** Git, GitHub, VS Code, Figma  
+
+---
+
+## 📌 About This Repo  
+This repository contains my **web development projects**, practice work, and experiments with different technologies.  
+I use it to:  
+- Sharpen my coding skills  
+- Build real-world projects  
+- Share knowledge with others  
+
+---
+
+## 🚀 How to Use  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/basotech247/basotech247.git
 
